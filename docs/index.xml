@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on statTarget 2.0</title>
+    <link>https://github.com/statTarget/statTarget.github.io/docs/</link>
+    <description>Recent content in Docs on statTarget 2.0</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 May 2017 14:58:34 +0800</lastBuildDate>
+    
+	<atom:link href="https://github.com/statTarget/statTarget.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quick Start</title>
+      <link>https://github.com/statTarget/statTarget.github.io/docs/quick-start/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/statTarget/statTarget.github.io/docs/quick-start/</guid>
+      <description>System requirements  Dependent on R (&amp;gt;= 3.3.0)
+If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 from https://www.r-project.org
+ Opening the GUI  Install the latest version of &amp;ldquo;statTarget 2.0&amp;rdquo; at Github. copy this code into R
+ # Install package dependencies source(&amp;quot;https://bioconductor.org/biocLite.R&amp;quot;) biocLite(c(&amp;quot;randomForest&amp;quot;, &amp;quot;plyr&amp;quot;, &amp;quot;pdist&amp;quot;, &amp;quot;ROC&amp;quot;, &amp;quot;rrcov&amp;quot;, &amp;quot;pls&amp;quot;, &amp;quot;impute&amp;quot;, &amp;quot;gWidgets2&amp;quot;, &amp;quot;gWidgets2RGtk2&amp;quot;)) # Install devtools install.packages(&amp;quot;devtools&amp;quot;) library(devtools) # Install statTarget 2.0 devtools::install_github(&amp;quot;13479776/statarget&amp;quot;, build_vignettes=TRUE) library(statTarget) ## `Load statTarget` statTargetGUI() ## `Execute statTarget GUI`   For mac PC, XQuartz instead of X11 support should be installed.</description>
+    </item>
+    
+    <item>
+      <title>Featured Articles</title>
+      <link>https://github.com/statTarget/statTarget.github.io/docs/zxz/</link>
+      <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
+      
+      <guid>https://github.com/statTarget/statTarget.github.io/docs/zxz/</guid>
+      <description>2017 1 NOREVA: normalization and evaluation of MS-based metabolomics data. Nucleic Acids Res 2017 gkx449. doi: 10.1093/nar/gkx449
+2 Endocrinology Meets Metabolomics: Achievements, Pitfalls, and Challenges. Trends in Endocrinology &amp;amp; Metabolism 2017 doi: dx.doi.org/10.1016/j.tem.2017.07.001
+3 Review of emerging metabolomic tools and resources: 2015–2016. ELECTROPHORESIS 2017 doi: 10.1002/elps.201700110
+4 NormalizeMets: Analysis of Metabolomics Data. R package 2017</description>
+    </item>
+    
+    <item>
+      <title>Vignette</title>
+      <link>https://github.com/statTarget/statTarget.github.io/docs/my-new-doc/</link>
+      <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
+      
+      <guid>https://github.com/statTarget/statTarget.github.io/docs/my-new-doc/</guid>
+      <description>Welcome to statTarget 2.0! An easy to use tool provides graphical user interface for quality control based signal correction, integration of metabolomics and proteomics data from multi-batch experiments, and the comprehensive statistic analysis in non-targeted or targeted metabolomics and proteomics.
+Metabolomics and proteomics Metabolomics and proteomics are powerful &amp;lsquo;omics&amp;rsquo; approaches that aims to analyze all small molecules or proteins in a biological sample comprehensively. The molecular profiling of thousands of biological samples has great potential for directly elucidating disease processes.</description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>https://github.com/statTarget/statTarget.github.io/docs/demo/</link>
+      <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
+      
+      <guid>https://github.com/statTarget/statTarget.github.io/docs/demo/</guid>
+      <description> Demo data Download the Example data.
+PhenoFile.csv (MetaFile.csv) for Signal Correction statFile_raw.csv for Statistic Analysis  </description>
+    </item>
+    
+  </channel>
+</rss>
