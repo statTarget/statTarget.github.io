@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on statTarget 2.0</title>
-    <link>https://github.com/statTarget/statTarget.github.io/blog/</link>
+    <link>https://statTarget.github.io/blog/</link>
     <description>Recent content in Blogs on statTarget 2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
     
-	<atom:link href="https://github.com/statTarget/statTarget.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statTarget.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to statTarget</title>
-      <link>https://github.com/statTarget/statTarget.github.io/blog/welcome/</link>
+      <link>https://statTarget.github.io/blog/welcome/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>https://github.com/statTarget/statTarget.github.io/blog/welcome/</guid>
+      <guid>https://statTarget.github.io/blog/welcome/</guid>
       <description></description>
     </item>
     
