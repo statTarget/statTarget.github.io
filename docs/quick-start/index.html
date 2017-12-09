@@ -148,7 +148,9 @@ headingSelector: 'h3'
 
 source(&quot;https://bioconductor.org/biocLite.R&quot;) 
 
-biocLite(c(&quot;randomForest&quot;, &quot;plyr&quot;, &quot;pdist&quot;, &quot;ROC&quot;, &quot;rrcov&quot;, &quot;pls&quot;, &quot;impute&quot;, &quot;gWidgets2&quot;, &quot;gWidgets2RGtk2&quot;))
+biocLite(c(&quot;randomForest&quot;, &quot;plyr&quot;, &quot;pdist&quot;, &quot;ROC&quot;, &quot;rrcov&quot;, &quot;pls&quot;, &quot;RGtk2&quot;, &quot;impute&quot;, &quot;gWidgets2&quot;, &quot;gWidgets2RGtk2&quot;))
+
+library(RGtk2)  # There may be a prompt box for GTK2 Installation, click &quot;OK&quot;
 
 # Install devtools
 
@@ -201,6 +203,8 @@ statTargetGUI()  ## `Execute statTarget GUI`
 
 <blockquote>
 <p>For mac PC,  XQuartz instead of X11 support should be installed. Download it from <a href="https://www.xquartz.org">https://www.xquartz.org</a>. R 3.3.0 and RGtk2 2.20.31 are recommended.</p>
+
+<p>RGTK2 is a binding for R to the GTK2 library and dependent libraries, and a multi-platform package for creating graphical user interfaces. If you have any problems about RGTK2 installation, see the related installation information for R and GTK on Windows/Mac OS at <a href="https://gist.github.com/sebkopf/9405675">https://gist.github.com/sebkopf/9405675</a></p>
 </blockquote>
 
 <p>More info: <a href="https://stattarget.github.io/docs/my-new-doc/">Package vignettes</a></p>
