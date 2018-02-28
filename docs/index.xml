@@ -50,8 +50,8 @@ If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 fro
       <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
       
       <guid>https://stattarget.github.io/docs/demo/</guid>
-      <description> Demo data Download the Example data.
-PhenoFile.csv (MetaFile.csv) for Signal Correction statFile_raw.csv for Statistic Analysis  </description>
+      <description> Demo data and Demo reports Download the Example data and Demo reports
+# Input files for Signal Correction PhenoFile.csv (or MetaFile.csv) ProfileFile.csv # Input files for Statistic Analysis statFile_raw.csv  </description>
     </item>
     
   </channel>
