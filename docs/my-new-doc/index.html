@@ -177,6 +177,8 @@ derivatives, etc.</p>
 
 <pre><code>## Examples Code for graphical user interface 
 
+library(statTarget)
+
 statTargetGUI()
 
 #For mac PC,  the GUI function 'statTargetGUI()' need the XQuartz instead of X11 support. Download it from https://www.xquartz.org. R 3.3.0 and RGtk2 2.20.31 are recommended for RGtk2 installation.
@@ -240,6 +242,8 @@ QCRLSC. (Default: 2)</p>
 &ldquo;minHalf&rdquo; median values, &ldquo;median&rdquo;. (Default: KNN)</p>
 
 <pre><code>## Examples Code
+
+library(statTarget)
 
 datpath &lt;- system.file('extdata',package = 'statTarget')
 samPeno &lt;- paste(datpath,'MTBLS79_sampleList.csv', sep='/')
@@ -318,11 +322,21 @@ values in the Volcano plot. (Default:  &gt; 2 or &lt; 0.5)</p>
 
 <p>The significance level for metabolites in the Volcano plot.(Default: 0.05)</p>
 
+<pre><code>library(statTarget)
+
+datpath &lt;- system.file('extdata',package = 'statTarget')
+file &lt;- paste(datpath,'data_example.csv', sep='/')
+statAnalysis(file,Frule = 0.8, normM = &quot;NONE&quot;, imputeM = &quot;KNN&quot;, glog = TRUE,scaling = &quot;Pareto&quot;)
+
+</code></pre>
+
 <h4 id="generation-of-input-file-the-transx-function">Generation of input file (the transX function)</h4>
 
 <p>The transX function is to generate statTarget input file formats from Mass Spectrometry Data softwares, such as XCMS, SIEVE and SKYLINE. &lsquo;?transX&rsquo; for off-line help.</p>
 
 <pre><code>## Examples Code
+
+library(statTarget)
 
 datpath &lt;- system.file('extdata',package = 'statTarget')
 dataXcms &lt;- paste(datpath,'xcmsOutput.tsv', sep='/')
@@ -338,6 +352,8 @@ See ?transX for off-line help
 <p>rForest provides the Breiman’s random forest algorithm for classification and permutation-based variable importance measures (PIMP-algorithm).</p>
 
 <pre><code>## Examples Code
+
+library(statTarget)
 
 datpath &lt;- system.file('extdata',package = 'statTarget')
 statFile &lt;- paste(datpath,'data_example.csv', sep='/')
