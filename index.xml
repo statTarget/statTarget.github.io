@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>statTarget 2.0</title>
-    <link>https://stattarget.github.io/</link>
-    <description>Recent content on statTarget 2.0</description>
+    <title>statTarget on statTarget 2.0</title>
+    <link>https://statTarget2.github.io/</link>
+    <description>Recent content in statTarget on statTarget 2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
     
-	<atom:link href="https://stattarget.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statTarget2.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to statTarget</title>
-      <link>https://stattarget.github.io/blog/welcome/</link>
+      <link>https://statTarget2.github.io/blog/welcome/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>https://stattarget.github.io/blog/welcome/</guid>
+      <guid>https://statTarget2.github.io/blog/welcome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quick Start</title>
-      <link>https://stattarget.github.io/docs/quick-start/</link>
+      <link>https://statTarget2.github.io/docs/quick-start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stattarget.github.io/docs/quick-start/</guid>
+      <guid>https://statTarget2.github.io/docs/quick-start/</guid>
       <description>System requirements  Dependent on R (&amp;gt;= 3.3.0)
 If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 from https://www.r-project.org
- Installation  Install the latest version of &amp;ldquo;statTarget 2.0&amp;rdquo; at Github. copy this code into R
- # Install package dependencies source(&amp;quot;https://bioconductor.org/biocLite.R&amp;quot;) biocLite(c(&amp;quot;randomForest&amp;quot;, &amp;quot;plyr&amp;quot;, &amp;quot;pdist&amp;quot;, &amp;quot;ROC&amp;quot;, &amp;quot;rrcov&amp;quot;, &amp;quot;pls&amp;quot;, &amp;quot;impute&amp;quot;)) # Install devtools install.packages(&amp;quot;devtools&amp;quot;) library(devtools) # Install statTarget 2.0 devtools::install_github(&amp;quot;statTarget/statTarget2&amp;quot;) library(statTarget) ## `Load statTarget`   Install the earlier versions of &amp;ldquo;statTarget&amp;rdquo; at the Bioconductor</description>
+ Installation  Install the latest version of &amp;ldquo;statTarget&amp;rdquo; at Github. copy this code into R
+ # Install package dependencies source(&amp;quot;https://bioconductor.org/biocLite.R&amp;quot;) biocLite(c(&amp;quot;randomForest&amp;quot;, &amp;quot;plyr&amp;quot;, &amp;quot;pdist&amp;quot;, &amp;quot;ROC&amp;quot;, &amp;quot;rrcov&amp;quot;, &amp;quot;pls&amp;quot;, &amp;quot;impute&amp;quot;)) # Install devtools install.packages(&amp;quot;devtools&amp;quot;) library(devtools) # Install statTarget devtools::install_github(&amp;quot;statTarget/statTarget2&amp;quot;) library(statTarget) ## `Load statTarget`   Install the earlier versions of &amp;ldquo;statTarget&amp;rdquo; at the Bioconductor</description>
     </item>
     
     <item>
       <title>Featured Articles</title>
-      <link>https://stattarget.github.io/docs/zxz/</link>
+      <link>https://statTarget2.github.io/docs/zxz/</link>
       <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
       
-      <guid>https://stattarget.github.io/docs/zxz/</guid>
+      <guid>https://statTarget2.github.io/docs/zxz/</guid>
       <description>2017 1 NOREVA: normalization and evaluation of MS-based metabolomics data. Nucleic Acids Res 2017 gkx449. doi: 10.1093/nar/gkx449
 2 Endocrinology Meets Metabolomics: Achievements, Pitfalls, and Challenges. Trends in Endocrinology &amp;amp; Metabolism 2017 doi: dx.doi.org/10.1016/j.tem.2017.07.001
 3 Review of emerging metabolomic tools and resources: 2015–2016. ELECTROPHORESIS 2017 doi: 10.1002/elps.201700110
@@ -46,29 +46,29 @@ If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 fro
     
     <item>
       <title>Vignette</title>
-      <link>https://stattarget.github.io/docs/my-new-doc/</link>
+      <link>https://statTarget2.github.io/docs/my-new-doc/</link>
       <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
       
-      <guid>https://stattarget.github.io/docs/my-new-doc/</guid>
-      <description>Welcome to statTarget 2.0! Quality Control (QC) has been considered as an essential step in the MS-based omics platform for high reproducibility and accuracy of data. The repetitive use of the same QC samples is more and more accepted for evaluation and correction of the signal drift during the sequence of MS run order, especially beneficial to improve the quality of data in multi-blocks experiments of metabolomics and proteomics (Dunn, W.</description>
+      <guid>https://statTarget2.github.io/docs/my-new-doc/</guid>
+      <description>Welcome to statTarget ! Quality Control (QC) has been considered as an essential step in the MS-based omics platform for high reproducibility and accuracy of data. The repetitive use of the same QC samples is more and more accepted for evaluation and correction of the signal drift during the sequence of MS run order, especially beneficial to improve the quality of data in multi-blocks experiments of metabolomics (Dunn, W.B., et al.</description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://stattarget.github.io/docs/demo/</link>
+      <link>https://statTarget2.github.io/docs/demo/</link>
       <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
       
-      <guid>https://stattarget.github.io/docs/demo/</guid>
+      <guid>https://statTarget2.github.io/docs/demo/</guid>
       <description> Demo data and Demo reports Download the Example data and Demo reports
 # Input files for Signal Correction PhenoFile.csv (or MetaFile.csv) ProfileFile.csv # Input files for Statistic Analysis statFile_raw.csv  </description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>https://stattarget.github.io/company/laboratory/</link>
+      <link>https://statTarget2.github.io/company/laboratory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stattarget.github.io/company/laboratory/</guid>
+      <guid>https://statTarget2.github.io/company/laboratory/</guid>
       <description>statTarget Project: statTarget is currently updated and maintained by Hemi Luan (hemi.luan@gamil.com) in SKLEBA at Hong Kong Baptsit Univeristy.
 Mass spectrometry based metabolomics: SKLEBA has established a proteomics and metabolomics analysis platform with multiple analytical instruments capable of exploring different chemicals, environmental pollutants, toxins. The facilities greatly improve the qualitative and quantitative accuracy in proteomics and metabolomics. The analytical instruments include:
 UPLC - Q Exactive Focus Hybrid Quadrupole-Orbitrap Mass Spectrometer (1) UPLC - TSQ Quantiva Triple Quadrupole Mass Spectrometer (1) UPLC - Orbitrap Fusion Tribrid Mass Spectrometer (1) Rapiflex MALDI Tissuetyper Imaging Mass Spectrometer (1) UPLC – Triple Quadrupole Mass spectrometer (2)  Publications  Luan, H.</description>
@@ -76,20 +76,20 @@ UPLC - Q Exactive Focus Hybrid Quadrupole-Orbitrap Mass Spectrometer (1) UPLC - 
     
     <item>
       <title>Password Recovery</title>
-      <link>https://stattarget.github.io/password-recovery/</link>
+      <link>https://statTarget2.github.io/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stattarget.github.io/password-recovery/</guid>
+      <guid>https://statTarget2.github.io/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
     </item>
     
     <item>
       <title>Sign In</title>
-      <link>https://stattarget.github.io/account/</link>
+      <link>https://statTarget2.github.io/account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stattarget.github.io/account/</guid>
+      <guid>https://statTarget2.github.io/account/</guid>
       <description>Email   Password   Log in
 Forgot password?
 If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@company.com and we&#39;ll fix it right away.
