@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on statTarget 2.0</title>
+    <title>Docs on statTarget</title>
     <link>https://statTarget.github.io/docs/</link>
-    <description>Recent content in Docs on statTarget 2.0</description>
+    <description>Recent content in Docs on statTarget</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 May 2017 14:58:34 +0800</lastBuildDate>
