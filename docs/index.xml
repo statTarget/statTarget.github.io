@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on statTarget 2.0</title>
-    <link>https://statTarget2.github.io/docs/</link>
+    <link>https://statTarget.github.io/docs/</link>
     <description>Recent content in Docs on statTarget 2.0</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 May 2017 14:58:34 +0800</lastBuildDate>
     
-	<atom:link href="https://statTarget2.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statTarget.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Quick Start</title>
-      <link>https://statTarget2.github.io/docs/quick-start/</link>
+      <link>https://statTarget.github.io/docs/quick-start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://statTarget2.github.io/docs/quick-start/</guid>
+      <guid>https://statTarget.github.io/docs/quick-start/</guid>
       <description>System requirements  Dependent on R (&amp;gt;= 3.3.0)
 If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 from https://www.r-project.org
  Installation  Install the latest version of &amp;ldquo;statTarget&amp;rdquo; at Github. copy this code into R
@@ -25,10 +25,10 @@ If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 fro
     
     <item>
       <title>Featured Articles</title>
-      <link>https://statTarget2.github.io/docs/zxz/</link>
+      <link>https://statTarget.github.io/docs/zxz/</link>
       <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
       
-      <guid>https://statTarget2.github.io/docs/zxz/</guid>
+      <guid>https://statTarget.github.io/docs/zxz/</guid>
       <description>2017 1 NOREVA: normalization and evaluation of MS-based metabolomics data. Nucleic Acids Res 2017 gkx449. doi: 10.1093/nar/gkx449
 2 Endocrinology Meets Metabolomics: Achievements, Pitfalls, and Challenges. Trends in Endocrinology &amp;amp; Metabolism 2017 doi: dx.doi.org/10.1016/j.tem.2017.07.001
 3 Review of emerging metabolomic tools and resources: 2015–2016. ELECTROPHORESIS 2017 doi: 10.1002/elps.201700110
@@ -37,19 +37,19 @@ If you did not install the R software yet,you can download R &amp;gt;= 3.3.0 fro
     
     <item>
       <title>Vignette</title>
-      <link>https://statTarget2.github.io/docs/my-new-doc/</link>
+      <link>https://statTarget.github.io/docs/my-new-doc/</link>
       <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
       
-      <guid>https://statTarget2.github.io/docs/my-new-doc/</guid>
+      <guid>https://statTarget.github.io/docs/my-new-doc/</guid>
       <description>Welcome to statTarget ! Quality Control (QC) has been considered as an essential step in the MS-based omics platform for high reproducibility and accuracy of data. The repetitive use of the same QC samples is more and more accepted for evaluation and correction of the signal drift during the sequence of MS run order, especially beneficial to improve the quality of data in multi-blocks experiments of metabolomics (Dunn, W.B., et al.</description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>https://statTarget2.github.io/docs/demo/</link>
+      <link>https://statTarget.github.io/docs/demo/</link>
       <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
       
-      <guid>https://statTarget2.github.io/docs/demo/</guid>
+      <guid>https://statTarget.github.io/docs/demo/</guid>
       <description> Demo data and Demo reports Download the Example data and Demo reports
 # Input files for Signal Correction PhenoFile.csv (or MetaFile.csv) ProfileFile.csv # Input files for Statistic Analysis statFile_raw.csv  </description>
     </item>
