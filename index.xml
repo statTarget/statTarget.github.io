@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>statTarget</title>
-    <link>stattarget.github.io/</link>
+    <link>https://stattarget.github.io/</link>
     <description>Recent content on statTarget</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 21:56:55 +0100</lastBuildDate>
     
-	<atom:link href="stattarget.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://stattarget.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to statTarget</title>
-      <link>stattarget.github.io/blog/welcome/</link>
+      <link>https://stattarget.github.io/blog/welcome/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>stattarget.github.io/blog/welcome/</guid>
+      <guid>https://stattarget.github.io/blog/welcome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quick Start</title>
-      <link>stattarget.github.io/docs/quick-start/</link>
+      <link>https://stattarget.github.io/docs/quick-start/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stattarget.github.io/docs/quick-start/</guid>
+      <guid>https://stattarget.github.io/docs/quick-start/</guid>
       <description>Citation  Please cite the following article when using statTarget or QC-RFSC algorithm:
  Luan H., Ji F., Chen Y., Cai Z. (2018) statTarget: A streamlined tool for signal drift correction and interpretations of quantitative mass spectrometry-based omics data. Analytica Chimica Acta. dio: https://doi.org/10.1016/j.aca.2018.08.002
 Luan H., Ji F., Chen Y., Cai Z. (2018) Quality control-based signal drift correction and interpretations of metabolomics/proteomics data using random forest regression. bioRxiv 253583; doi: https://doi.</description>
@@ -33,10 +33,10 @@ Luan H., Ji F., Chen Y., Cai Z. (2018) Quality control-based signal drift correc
     
     <item>
       <title>Featured Articles</title>
-      <link>stattarget.github.io/docs/zxz/</link>
+      <link>https://stattarget.github.io/docs/zxz/</link>
       <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
       
-      <guid>stattarget.github.io/docs/zxz/</guid>
+      <guid>https://stattarget.github.io/docs/zxz/</guid>
       <description>Citation Please cite the following article when using statTarget or QC-RFSC algorithm:
 Luan H., Ji F., Chen Y., Cai Z. (2018) statTarget: A streamlined tool for signal drift correction and interpretations of quantitative mass spectrometry-based omics data. Analytica Chimica Acta. dio: https://doi.org/10.1016/j.aca.2018.08.002
 Luan H., Ji F., Chen Y., Cai Z. (2018) Quality control-based signal drift correction and interpretations of metabolomics/proteomics data using random forest regression. bioRxiv 253583; doi: https://doi.org/10.1101/253583</description>
@@ -44,29 +44,29 @@ Luan H., Ji F., Chen Y., Cai Z. (2018) Quality control-based signal drift correc
     
     <item>
       <title>Vignette</title>
-      <link>stattarget.github.io/docs/my-new-doc/</link>
+      <link>https://stattarget.github.io/docs/my-new-doc/</link>
       <pubDate>Wed, 17 May 2017 14:58:34 +0800</pubDate>
       
-      <guid>stattarget.github.io/docs/my-new-doc/</guid>
+      <guid>https://stattarget.github.io/docs/my-new-doc/</guid>
       <description>Welcome to statTarget ! Quality Control (QC) has been considered as an essential step in the MS-based omics platform for high reproducibility and accuracy of data. The repetitive use of the same QC samples is more and more accepted for evaluation and correction of the signal drift during the sequence of MS run order, especially beneficial to improve the quality of data in multi-blocks experiments (Dunn, W.B., et al., 2011).</description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>stattarget.github.io/docs/demo/</link>
+      <link>https://stattarget.github.io/docs/demo/</link>
       <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
       
-      <guid>stattarget.github.io/docs/demo/</guid>
+      <guid>https://stattarget.github.io/docs/demo/</guid>
       <description> Demo data and Demo reports Download the Example data and Demo reports
 # Input files for Signal Correction PhenoFile.csv (or MetaFile.csv) ProfileFile.csv # Input files for Statistic Analysis statFile_raw.csv  </description>
     </item>
     
     <item>
       <title>About us</title>
-      <link>stattarget.github.io/company/laboratory/</link>
+      <link>https://stattarget.github.io/company/laboratory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stattarget.github.io/company/laboratory/</guid>
+      <guid>https://stattarget.github.io/company/laboratory/</guid>
       <description>statTarget Project: statTarget is currently updated and maintained by Hemi Luan (hemi.luan@gamil.com) in SKLEBA at Hong Kong Baptsit Univeristy.
 Mass spectrometry based metabolomics: SKLEBA has established a proteomics and metabolomics analysis platform with multiple analytical instruments capable of exploring different chemicals, environmental pollutants, toxins. The facilities greatly improve the qualitative and quantitative accuracy in proteomics and metabolomics. The analytical instruments include:
 UPLC - Q Exactive Focus Hybrid Quadrupole-Orbitrap Mass Spectrometer (1) UPLC - TSQ Quantiva Triple Quadrupole Mass Spectrometer (1) UPLC - Orbitrap Fusion Tribrid Mass Spectrometer (1) Rapiflex MALDI Tissuetyper Imaging Mass Spectrometer (1) UPLC – Triple Quadrupole Mass spectrometer (2)  Publications  Luan, H.</description>
@@ -74,20 +74,20 @@ UPLC - Q Exactive Focus Hybrid Quadrupole-Orbitrap Mass Spectrometer (1) UPLC - 
     
     <item>
       <title>Password Recovery</title>
-      <link>stattarget.github.io/password-recovery/</link>
+      <link>https://stattarget.github.io/password-recovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stattarget.github.io/password-recovery/</guid>
+      <guid>https://stattarget.github.io/password-recovery/</guid>
       <description>Your email    Send Back to Log In
  </description>
     </item>
     
     <item>
       <title>Sign In</title>
-      <link>stattarget.github.io/account/</link>
+      <link>https://stattarget.github.io/account/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>stattarget.github.io/account/</guid>
+      <guid>https://stattarget.github.io/account/</guid>
       <description>Email   Password   Log in
 Forgot password?
 If you have any questions about authorization or you&#39;re our customer but haven&#39;t receive your login credentials, just send us a short email at support@company.com and we&#39;ll fix it right away.
