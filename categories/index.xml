@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on statTarget</title>
-    <link>https://stattarget.github.io/categories/</link>
+    <link>https://statTarget.github.io/categories/</link>
     <description>Recent content in Categories on statTarget</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://stattarget.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://statTarget.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>General</title>
-      <link>https://stattarget.github.io/categories/general/</link>
+      <link>https://statTarget.github.io/categories/general/</link>
       <pubDate>Thu, 02 Mar 2017 21:56:55 +0100</pubDate>
       
-      <guid>https://stattarget.github.io/categories/general/</guid>
+      <guid>https://statTarget.github.io/categories/general/</guid>
       <description></description>
     </item>
     
