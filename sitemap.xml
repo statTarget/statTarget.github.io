@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://stattarget.github.io/blog/welcome/</loc>
@@ -17,6 +18,11 @@
   
   <url>
     <loc>https://stattarget.github.io/docs/my-new-doc/</loc>
+    <lastmod>2017-05-17T14:58:34+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stattarget.github.io/docs/chinese/</loc>
     <lastmod>2017-05-17T14:58:34+08:00</lastmod>
   </url>
   
