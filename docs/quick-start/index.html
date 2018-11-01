@@ -139,14 +139,16 @@ headingSelector: 'h3'
 <hr />
 
 <blockquote>
-<p>Install the &ldquo;statTarget&rdquo; at the Bioconductor</p>
+<p>Install the &ldquo;statTarget2&rdquo; at the Bioconductor</p>
 
-<p>For Windows PC, copy this code into R</p>
+<p>For Windows PC and Linux, copy this code into R</p>
 </blockquote>
 
-<pre><code> source(&quot;https://bioconductor.org/biocLite.R&quot;) 
+<pre><code> if (!requireNamespace(&quot;BiocManager&quot;, quietly = TRUE)) 
 
- biocLite(&quot;statTarget&quot;)
+ install.packages(&quot;BiocManager&quot;)
+
+ BiocManager::install(&quot;statTarget&quot;, version = &quot;3.8&quot;)
 
  library(statTarget)  ## `Load statTarget`. There may be a prompt box for GTK2 Installation, click &quot;OK&quot;
 
@@ -154,16 +156,18 @@ headingSelector: 'h3'
 </code></pre>
 
 <blockquote>
-<p>For mac PC, Copy this code into R</p>
+<p>Install the &ldquo;statTarget2&rdquo; at the github.</p>
 </blockquote>
 
-<pre><code> source(&quot;https://bioconductor.org/biocLite.R&quot;)
+<pre><code> if (!requireNamespace(&quot;devtools&quot;, quietly = TRUE))
 
- biocLite(&quot;statTarget&quot;)
+ install.packages(&quot;devtools&quot;)
 
- library(statTarget)  ## `Load statTarget`
+ devtools::install_github(&quot;statTarget/statTarget2&quot;)
 
- statTargetGUI()  ## `Execute statTarget GUI` 
+ library(statTarget)
+
+ statTargetGUI()
 </code></pre>
 
 <blockquote>

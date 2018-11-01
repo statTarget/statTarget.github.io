@@ -92,11 +92,23 @@
 
 <h3 id="troubleshooting">Troubleshooting</h3>
 
-<pre><code>Q1: Error: in imsamFP[, 2:ncol(imsamFP)]: subscript out of bounds
+<pre><code>Q1: Version 2.0 statTarget, the HR images are not there
+
+In the version 2.0 or bioconductor(3.8) , the statTargetGUI function do not output the HR image or lolot for each features for saving the time.
+Alternatively, you can use the shiftCor function to get the HR image.
+
+The test code is here. You can try. (Key parameters: plot=TRUE)
+
+datpath &lt;- system.file('extdata',package = 'statTarget')
+samPeno &lt;- paste(datpath,'MTBLS79_sampleList.csv', sep='/')
+samFile &lt;- paste(datpath,'MTBLS79.csv', sep='/')
+shiftCor(samPeno,samFile, Frule = 0.8, MLmethod = 'QCRFSC', QCspan = 0,imputeM = ‘KNN’,plot=TRUE)
+
+Q2: Error: in imsamFP[, 2:ncol(imsamFP)]: subscript out of bounds
 
 In the statTarget version 1.4.X, the 1st column name of Profile Files is prefixed and should be labelled as &quot;name&quot;.
 
-Q2: Error: in knnimp.internal(...), NA/NaN/Inf in the foreign function call (arg 1)
+Q3: Error: in knnimp.internal(...), NA/NaN/Inf in the foreign function call (arg 1)
 
 Only unique value or character could be typed into the 1st column of Profile Files and labelled as the metabolites ID.
 </code></pre>
