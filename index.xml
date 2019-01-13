@@ -77,6 +77,19 @@ statTarget的基本功能 statTarget提供了两个基本模块功能。
     </item>
     
     <item>
+      <title>statTarget result for pathway analysis in mummichog</title>
+      <link>https://stattarget.github.io/docs/stattarget2mummichog/</link>
+      <pubDate>Mon, 10 Apr 2017 16:43:08 +0100</pubDate>
+      
+      <guid>https://stattarget.github.io/docs/stattarget2mummichog/</guid>
+      <description>1&amp;gt; to get the p.value from the file in /statTarget/statAnalysis/Univariate/Pvalues
+2&amp;gt; to get the fold.change from the file in /statTarget/statAnalysis/Univariate/Fold_Changes
+3&amp;gt; to get the m.z from the .tsv file from the xcms output.
+3&amp;gt; to generate the table with column named m.z, p.value and t.score
+4&amp;gt; submit the table to metaboanalyst web: https://www.metaboanalyst.ca/MetaboAnalyst/faces/upload/PeakUploadView.xhtml</description>
+    </item>
+    
+    <item>
       <title>About us</title>
       <link>https://stattarget.github.io/company/laboratory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
