@@ -76,7 +76,7 @@ statTarget的基本功能 statTarget提供了两个基本模块功能。
       <description>1&amp;gt; to get the p.value from the file in /statTarget/statAnalysis/Univariate/Pvalues
 2&amp;gt; to get the fold.change from the file in /statTarget/statAnalysis/Univariate/Fold_Changes
 3&amp;gt; to get the m.z from the .tsv file from the xcms output.
-3&amp;gt; to generate the table with column named m.z, p.value and t.score
+3&amp;gt; to generate the table with column named m.z, p.value and t.score (fold.change value)
 4&amp;gt; submit the table to metaboanalyst web: https://www.metaboanalyst.ca/MetaboAnalyst/faces/upload/PeakUploadView.xhtml</description>
     </item>
     
